@@ -20,7 +20,6 @@ Skizzen:
 - [Skizze 2](./Meilenstein_1/Skizzen/Skizze_02.pdf)
 - [Skizze 3](./Meilenstein_1/Skizzen/Skizze_03.pdf)
 
-- Den Code können Sie im App/ finden
 
 ## Meilenstein 2: 14.05.2023
 ### Personas
