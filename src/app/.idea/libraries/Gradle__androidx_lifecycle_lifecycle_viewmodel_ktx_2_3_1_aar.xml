@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/Sommersemester 2023/Belegte Module/Human Computer Interaction/Repo/hci-ss2023-gruppe6_development/src/.gradle/caches/transforms-3/fb099eb0af9ad1c2adbece4f31990c90/transformed/lifecycle-viewmodel-ktx-2.3.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Desktop/Sommersemester 2023/Belegte Module/Human Computer Interaction/Repo/hci-ss2023-gruppe6_development/src/.gradle/caches/transforms-3/fb099eb0af9ad1c2adbece4f31990c90/transformed/lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Desktop/Sommersemester 2023/Belegte Module/Human Computer Interaction/Repo/hci-ss2023-gruppe6_development/src/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-viewmodel-ktx/2.3.1/5039b0b0dd04a2496c1bbbddc897c5dfa6b8ed43/lifecycle-viewmodel-ktx-2.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

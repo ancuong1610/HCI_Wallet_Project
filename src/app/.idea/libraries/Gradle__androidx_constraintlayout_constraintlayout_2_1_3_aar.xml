@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.constraintlayout:constraintlayout:2.1.3@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Desktop/Sommersemester 2023/Belegte Module/Human Computer Interaction/Repo/hci-ss2023-gruppe6_development/src/.gradle/caches/transforms-3/72b9050c158450da8c5e67c572121f7d/transformed/constraintlayout-2.1.3/res" />
+      <root url="file://$USER_HOME$/Desktop/Sommersemester 2023/Belegte Module/Human Computer Interaction/Repo/hci-ss2023-gruppe6_development/src/.gradle/caches/transforms-3/72b9050c158450da8c5e67c572121f7d/transformed/constraintlayout-2.1.3/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/Desktop/Sommersemester 2023/Belegte Module/Human Computer Interaction/Repo/hci-ss2023-gruppe6_development/src/.gradle/caches/transforms-3/72b9050c158450da8c5e67c572121f7d/transformed/constraintlayout-2.1.3/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Desktop/Sommersemester 2023/Belegte Module/Human Computer Interaction/Repo/hci-ss2023-gruppe6_development/src/.gradle/caches/modules-2/files-2.1/androidx.constraintlayout/constraintlayout/2.1.3/ef09d725f04e18996fce65076118fc289416b8ca/constraintlayout-2.1.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
